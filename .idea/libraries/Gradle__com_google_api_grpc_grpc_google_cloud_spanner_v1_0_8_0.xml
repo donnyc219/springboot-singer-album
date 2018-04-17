@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.api.grpc:grpc-google-cloud-spanner-v1:0.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-cloud-spanner-v1/0.8.0/406ef2e77fd5bf94ef33ba827703099beceda699/grpc-google-cloud-spanner-v1-0.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-cloud-spanner-v1/0.8.0/4606150fc581e754bea2f61ef681e7a68d29f2e4/grpc-google-cloud-spanner-v1-0.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
