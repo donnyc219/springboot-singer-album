@@ -1,2 +1,2 @@
 # springboot-singer-album
-first demo app of springbok
+first demo app of springboot
