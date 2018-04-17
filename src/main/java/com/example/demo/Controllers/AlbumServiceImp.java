@@ -26,7 +26,7 @@ public class AlbumServiceImp implements AlbumService {
             String sql = "DELETE FROM Albums WHERE SingerId="+ album.getSingerId() +" AND AlbumId="+ albumId +";";
             dbHelper.getDbClient().singleUse().executeQuery(Statement.of(sql));
             return album;
-//            Mutation m = Mutation.delete("Albums", Key.of(54));
+//            Mutation m = Mutation.delete("Albums", Key.of(4));
 //            dbHelper.getDbClient().write(Arrays.asList(m));
 //            return album;
         } catch (Exception ex) {
